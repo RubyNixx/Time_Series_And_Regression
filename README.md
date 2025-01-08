@@ -4,7 +4,7 @@
 
 The python file can be found within this repository or alternatively opened in google colab below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USERNAME/REPO/blob/BRANCH/PATH/TO/NOTEBOOK.ipynb])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/RubyNixx/Time_Series_And_Regression/blob/main/Regression_and_Time_Series_Analysis_A%26E_Attendances.ipynb)
 
 Project: Analysing public A&E attendance, emergency admissions and bed utilisation data. This is not an official NHS project, it was a project done for my masters whilst learning how to build different types of statistical models. I've provided examples throughout the below as the python code may be helpful for others.
 
